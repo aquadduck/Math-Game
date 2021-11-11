@@ -1,0 +1,32 @@
+body
+{
+	background-image: url("http://1.bp.blogspot.com/-NCt1UVXzBGk/T3v3M7Z-TTI/AAAAAAAABu4/zjV9hyTD-Ts/s1600/Mountain+Sunrise+Wallpapers+2.jpg");
+	background-size: cover;
+    text-align: center;
+}
+
+	.div1 , .div2
+	{
+        background: white;
+        border-radius: 10px;
+        border-top: 10px solid hsl(204, 43%, 47%);
+        padding: 10px;
+        float: none;
+        text-align: left;
+	}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid hsl(204, 100%, 31%);
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.buttons {
+    background: white;
+    height: 60px;
+    width: 100px;
+    border-radius: 20%;
+}
